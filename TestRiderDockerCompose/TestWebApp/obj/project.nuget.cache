@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8Y5Evn9SW7O9nmmPNHVzmnxl8YqHdNS0/GwLsRemXJ6RS82SA5RrxaJysifMpr3IYWistsGQrn6CV5H1YG9ig==",
+  "success": true,
+  "projectFilePath": "/Users/kennedysigauke/Work/TestRiderDockerCompose/TestWebApp/TestWebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kennedysigauke/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kennedysigauke/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kennedysigauke/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/kennedysigauke/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/kennedysigauke/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/kennedysigauke/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
